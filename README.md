@@ -1,11 +1,6 @@
-# Hi, I'm Daniel 👋
+## Hi, I'm Daniel 👋
 
-I'm a CS student at Queen's University building around of software, data, and growth.
-
-## What I'm working on
-
-- **Extra Sauce Agency** — SEO Intern
-- **QTMA** — joining as a software developer in the fall
+I'm a CS student at Queen's University
 
 ---
 
